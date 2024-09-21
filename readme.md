@@ -6,8 +6,8 @@ Turn Hànzì into SMPL poses as demonstrated above for 火，水，木. The pipe
 This is a non-commerical artistic project.
 
 ### Installation
-1. Get the SMPL model and download it [here](https://smpl.is.tue.mpg.de/).
-2. Get *graphics.txt* from [makemeahanzi](https://github.com/skishore/makemeahanzi).
+1. Download the SMPL model from [here](https://smpl.is.tue.mpg.de/).
+2. Get the *graphics.txt* from [makemeahanzi](https://github.com/skishore/makemeahanzi).
 3. Install dependencies:
    1. ```conda create -n hampl python=3.10```
    2. ```conda activate hampl```
