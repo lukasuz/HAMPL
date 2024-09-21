@@ -1,0 +1,15 @@
+numpy
+chumpy @ git+https://github.com/mattloper/chumpy.git
+scipy
+ffmpeg
+matplotlib
+opencv-python
+torch
+torchvision
+imageio
+tensorboardX
+smplx
+cairosvg
+drawsvg[all]~=2.0
+iopath
+pytorch3d @ git+https://github.com/facebookresearch/pytorch3d.git@stable
