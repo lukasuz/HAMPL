@@ -1,7 +1,7 @@
-## HAMPL - *汉子 (Hànzi) to SMPL*
+## HAMPL - *汉字 (Hànzì) to SMPL*
 
 ![Example header picture](example.gif)
-Turn Hànzi into SMPL poses as demonstrated above for 火，水，木. The pipeline is based on an optimization scheme with PyTorch with some random initialization, so the final poses vary based on the seed.
+Turn Hànzì into SMPL poses as demonstrated above for 火，水，木. The pipeline is based on an optimization scheme with PyTorch with some random initialization, so the final poses vary based on the seed.
 
 This is a non-commerical artistic project.
 
